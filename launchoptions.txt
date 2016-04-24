@@ -1,0 +1,1 @@
+-dxlevel 81 -console -novid -high -threads 4 -freq 60 -refresh 60 -tickrate 128 -nojoy -nod3d9ex  -language llama +mat_queue_mode 2 +exec config.cfg
